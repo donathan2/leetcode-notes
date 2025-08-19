@@ -5,9 +5,9 @@ Reverse a linked list!
 
 ### Approach:
 
-Time complexity: O(n), 
+**Time complexity: O(n)**
 
-Space complexity: O(1)
+**Space complexity: O(1)**
 
 To reverse the linked list, my plan was to iterate through the list, and simply reverse the next pointer 
 for each node as I traversed. However, this could get tricky as in order to "reverse" a node, I'd have to
