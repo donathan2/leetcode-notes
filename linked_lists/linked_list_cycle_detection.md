@@ -1,7 +1,7 @@
 # LeetCode 21: Linked List Cycle Detection (Easy)
 ### Problem Description:
 
-Given two sorted lists, merge them into one list of non-decreasing order!
+Identify whether a given linked list contains a cycle or not.
 
 ### Approach:
 
