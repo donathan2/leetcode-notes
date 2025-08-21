@@ -1,4 +1,4 @@
-# LeetCode 206: Reorder Linked List (Medium)
+# LeetCode 143: Reorder List (Medium)
 ### Problem Description:
 
 Reorder a given linked list to order of [0, n-1, 1, n-2, 2, n-3, ...]
