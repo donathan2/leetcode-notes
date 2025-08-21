@@ -1,4 +1,4 @@
-# LeetCode 21: Linked List Cycle Detection (Easy)
+# LeetCode 141: Linked List Cycle (Easy)
 ### Problem Description:
 
 Identify whether a given linked list contains a cycle or not.
