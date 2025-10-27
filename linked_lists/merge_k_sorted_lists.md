@@ -15,7 +15,7 @@ This is actually a relatively simple problem and builds on merging two sorted li
 of the two current nodes until a final list is created. For this problem, we do this, add the list back into the array, 
 and continue until the array is only 1 item long, and that's out final linked list!
 
-This satisfies the O(n * k) time complexity requirement, but there are actually using heap or divide and conquer approachs that complete
+This satisfies the O(n * k) time complexity requirement, but there are actually heap or divide and conquer approaches that complete
 this task in O(nlogk), which is faster. Regardless, this is a simple way to solve this problem and it satisfies the constraints. 
 
 
